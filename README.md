@@ -1,4 +1,4 @@
-# PRimeiro projeto 
+# Primeiro projeto 
 Meu primeiro projeto com versionamento git 
 Feito em um curso de extensão de git-github na UNIVERSIDADE SANTO AGOSTINHO  
 Professor: Anderson Soares 
